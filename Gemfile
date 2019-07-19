@@ -40,8 +40,3 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-<<<<<<< HEAD
-
-=======
-web: bundle exec puma -C config/puma.rb
->>>>>>> 0ee068cf7e54d6a2c428bcf60b2b706405176bb4
